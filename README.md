@@ -1,2 +1,3 @@
 # gizmux.github.io
-github page 
+
+Trying out [HUGO](https://gohugo.io)
